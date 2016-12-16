@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/validation/validation.iml" filepath="$PROJECT_DIR$/validation/validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xx-jersey.iml" filepath="$PROJECT_DIR$/xx-jersey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base/xx-jersey-base.iml" filepath="$PROJECT_DIR$/base/xx-jersey-base.iml" />
+    </modules>
+  </component>
+</project>
