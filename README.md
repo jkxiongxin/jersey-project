@@ -1,0 +1,3 @@
+# jersey-project
+一个基于jersey的架构库：
+其中base这个module包含了一个jersey使用jetty方式启动项目的类，以及一个基础的资源类(resource)，由于项目依赖了jersey-server，其中有一个wadlFeature，所以项目启动后还能通过访问application.wadl来查看目前提供的资源。
